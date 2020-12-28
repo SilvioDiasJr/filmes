@@ -25,9 +25,9 @@ A aplicação permite acesso a sinopse dos principais filmes, serviu para por em
 ### Web
 
 <p align="center">
-  <img alt="Happy Web" title="Happy Web" src="./assets/home.png" width="800px">
+  <img alt="Página home" title="Página home" src="./src/assets/home.png" width="800px">
 
-  <img alt="Happy Web" title="Happy Web" src="./assets/sinopse.png" width="800px">
+  <img alt="Sinopse" title="Sinopse" src="./src/assets/sinopse.png" width="800px">
 </p>
 
 ---
