@@ -26,7 +26,7 @@ A aplicação permite acesso a sinopse dos principais filmes, serviu para por em
 
 <p align="center">
   <img alt="Página home" title="Página home" src="./src/assets/home.png" width="800px">
-
+  <br/>
   <img alt="Sinopse" title="Sinopse" src="./src/assets/sinopse.png" width="800px">
 </p>
 
