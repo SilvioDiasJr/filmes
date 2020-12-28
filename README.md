@@ -15,7 +15,7 @@
 
 ## 💡 Sobre
 
-A aplicação permite acesso a sinopse dos principais filmes, serviu para por em pratica vários aprendizados.
+A aplicação permite acesso a sinopse dos principais filmes através de API.
 
 ---
 
